@@ -294,7 +294,35 @@ input{
 	margin: 0 auto;
 }
 #main .con-two .img{
+	width: 470px;
+	height: 320px;
 	float: left;
+	background-image: url(../png/biyeji.png);
+}
+#main .con-two .img .bi{
+	font-family: MicrosoftYaHei-Bold;
+	padding-top: 99px;
+	padding-left: 25px;
+	font-size:30px;
+	font-weight:bold;
+	color:#F9E003;                           
+}
+#main .con-two .img .dai{
+	font-family: MicrosoftYaHei YaHei;
+	font-size:27px;
+	padding-left: 25px;
+	color:#FFFFFF;
+}
+#main .con-two .img .dian{
+	width: 87px;
+	height: 24px;
+	border:1px solid #F9E103;
+	margin-left: 28px;
+	margin-top: 12px;
+	line-height: center;
+	text-align: center;
+	font-family:Microsoft YaHei;
+	color:#F9E003;
 }
 #main .men{
 	width: 228px;
@@ -359,10 +387,6 @@ input{
 	height: 160px;
 	float: left;
 	margin-right: 100px;
-}
-#footer .left .img{
-	width: 380px;
-	height: 40px;
 }
 #footer .left .middle{
 	float: left;
