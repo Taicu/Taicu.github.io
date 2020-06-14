@@ -1,0 +1,269 @@
+body {
+	font-size: 16px;
+	font-family: '黑体';
+	background-color: #000;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+hr {
+	width: 60%;
+	text-align: center;
+	margin: 0 auto
+}
+
+.top {
+	min-width: 1000px;
+	margin: 0 auto;
+	background-color: #000;
+	color: #fff;
+	height: 250px;
+	padding: 45px 0px;
+	line-height: 40px;
+	width: 100%;
+	text-align: center;
+}
+
+.top h1 {
+	line-height: 90px
+}
+
+.sss{float: left; width: 450px; height: 35px; padding-left: 15px; margin-left: 45px}
+.ttu{float: left; width: 120px; height: 38px; border: 0px
+;line-height: 35px; margin-left: 20px}
+.nav {
+	padding-top: 20px;
+	font-size: 16px
+}
+
+.top a {
+	text-decoration: none;
+	padding-right: 15px;
+	color: #fff;
+}
+
+.sen {
+	background-color: #27282d;
+	padding: 50px 0px;
+}
+
+.sennr {
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff
+}
+
+.sennr h1 {
+	font-size: 68px;
+	color: #DBC8BE;
+	margin-bottom: 25px
+}
+
+.sennr p {
+	line-height: 32px;
+}
+
+.sennr img {
+	margin-top: 35px
+}
+
+.lv {
+	background: #dbc9bf;
+	padding: 50px 0px;
+}
+
+.lvnr {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.lvnr h1 {
+	font-size: 68px;
+	color: #1E2025;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.lvnr p {
+	line-height: 32px;
+	text-align: center;
+}
+
+.lvnr h3 {
+	text-align: center;
+	margin-bottom: 30px
+}
+
+.listlv {
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 50px
+}
+
+.listlv li {
+	list-style: none;
+	width: 30%;
+	margin-left: 2%;
+	float: left;
+	overflow: hidden;
+}
+
+.listlv li img {
+	width: 100%
+}
+
+.listlv li p {
+	text-align: center;
+	line-height: 35px
+}
+
+.fnr {
+	background-color: #000;
+	color: #fff;
+	padding: 50px 0px;
+	overflow: hidden;
+}
+
+.fnr h1 {
+	font-size: 68px;
+	color: #fff;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.fnr p {
+	line-height: 32px;
+	text-align: center;
+}
+
+.rzlist {
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 50px
+}
+
+.rzlist li {
+	overflow: hidden;
+	margin-top: 30px
+}
+
+.rzlist p {
+	text-align: left;
+}
+
+.lef {
+	float: left;
+	width: 200px;
+	color: #DBC8BE;
+}
+
+.rig {
+	float: left;
+	width: 700px;
+	margin-left: 40px
+}
+
+.arc {
+	background: #fff;
+	padding: 50px 0px;
+}
+
+.arcnr {
+	width: 900px;
+	margin: 0 auto;
+	padding: 40px;
+	border: 1px #000 solid
+}
+
+.arcnr h1 {
+	font-size: 68px;
+	color: #1E2025;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.arcnr p {
+	line-height: 32px;
+	text-align: left;
+	font-family:Microsoft YaHei;
+}
+
+.arcnr img {
+	text-align: center;
+}
+
+.arcnr h3 {
+	text-align: center;
+	margin-bottom: 30px
+}
+
+form {
+	padding: 10px;
+	width: 700px;
+	height: 650px;
+	margin: 0 auto;
+	padding-top: 50px
+}
+
+fieldset {
+	padding: 10px;
+}
+
+table {
+	margin-left: 100px;
+	border-spacing: 0;
+}
+
+tr {
+	height: 45px;
+}
+
+td {
+	padding: 1px;
+}
+
+.inputt {
+	width: 420px;
+	height: 32px
+}
+
+.cc {
+	width: 420px;
+	height: 42px
+}
+
+.send {
+	width: 320px;
+	height: 42px;
+	margin-top: 30px
+}
+
+.ccc {
+	width: 420px;
+	height: 120px
+}
+
+.rr {
+	width: 70px
+}
+
+.footer {
+	margin-top: 100px;
+	text-align: center;
+	color: #fff;
+	padding-bottom: 60px
+}
+
+.footer h3 {
+	line-height: 68px;
+	font-size: 25px
+}
+
+.copy {
+	margin-top: 40px
+}
